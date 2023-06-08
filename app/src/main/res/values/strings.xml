@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Caça ao Tesouro</string>
+    <string name="user_data_activity_title">Dados do Usuário</string>
+    <string name="logo_content_description">Logo do aplicativo</string>
+</resources>
